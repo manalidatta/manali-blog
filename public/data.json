@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "0",
+        "petName" : "Book flight",
+        "aptDate" : "2021-03-04",
+        "aptNotes" : "Get tickets to Kolkata" 
+    },
+    {
+        "id" : "1",
+        "petName" : "Get groceries",
+        "aptDate" : "2021-04-17",
+        "aptNotes" : "Biscuits, crisps, vegetables, fruits" 
+    },
+    {
+        "id" : "2",
+        "petName" : "Go to Amit's House",
+        "aptDate" : "2021-05-22",
+        "aptNotes" : "School project" 
+    },
+    {
+        "id" : "3",
+        "petName" : "Call Harshita",
+        "aptDate" : "2021-05-23",
+        "aptNotes" : "Ask about her mother's operation" 
+    },
+    {
+        "id" : "4",
+        "petName" : "Visit bank",
+        "aptDate" : "2021-03-24",
+        "aptNotes" : "Get updates about the loan" 
+    }
+]
